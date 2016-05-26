@@ -1,0 +1,58 @@
+###################
+# COMPILED SOURCE #
+###################
+*.class
+*.classpath
+*.orig
+*.iml
+*.eml
+
+############
+# PACKAGES #
+############
+*.rar
+*.jar
+
+######################
+# OS GENERATED FILES #
+######################
+.DS_Store
+
+##########
+# FOLDER #
+##########
+.settings
+.project
+.metadata
+.idea/
+*.iml/
+.idea/*
+target
+*.rej 
+
+
+
+##########
+# OTHERS #
+##########
+MANIFEST.MF
+
+####################
+# SUBVERSION FILES #
+####################
+.svn
+
+##############
+# LOG FILES #
+##############
+log.txt
+ 
+#############
+# DATABASES #
+#############
+**filters/
+
+
+*.scss
+*.sass
+*.MF
